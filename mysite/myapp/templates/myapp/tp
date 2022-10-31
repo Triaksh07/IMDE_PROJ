@@ -1,0 +1,1 @@
+<!-- <td style="text-align:center"><a class="btn btn-danger" href="{% url 'delete' food_consumed.pk %}">X</a> -->
